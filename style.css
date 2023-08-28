@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgb(7, 2, 37);
+  padding: 20px 30px;
+  color: rgba(255, 255, 255, 0.906);
+}
